@@ -52,3 +52,72 @@ img {
     color:white;
     text-align:center;
 }
+
+.first-div {
+    margin-left:-10px;
+}
+
+/* .add-padding {
+    padding-left:100px;
+    padding-right:100px;
+    color:green;
+} */
+
+/* body {
+	background-color: #E3E3E3;
+	font-size: 12px;
+}  */
+
+/* h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
+    color: #4f4f4f;
+    font-family: "BebasNeue", sans-serif;
+    margin: 0;
+    font-weight: normal;
+} */
+
+#header {
+/* background-color: #2C2C2C; */
+color: #FFFFFF;
+padding-top: 30px;
+}
+
+/* #header .leftbox {
+float: left;
+display: inline;
+} */
+
+/* #header .rightbox {
+float: right;
+display: inline;
+width: 200px;
+} */
+
+.form-signin-heading {
+font-size:20px;
+color:aliceblue;
+/* display:inline-block; */
+/* padding-right:40px; */
+}
+
+.header {
+    /* position:right; */
+    /* left:0;
+    bottom:0; */
+    width: 100%;
+    /* background-color:#40FFFA; */
+    color:white;
+    text-align:right;
+    /* padding:-10px; */
+    display:inline-block;
+    box-sizing:border-box;
+    padding:10px;
+}
+
+.form-control {
+    text-align:inline-block;
+}
