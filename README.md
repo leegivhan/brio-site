@@ -1,9 +1,15 @@
 # brio internship assignment
 
-Design a web page that adheres to the following criteria. Remember, it doesn’t have
-to be perfect, we just want to see your base knowledge of HTML and CSS.
+Tools
+You can use any of the following tools (or any others you are familiar with) to create a web project that will accomplish the task:
+1.	jQuery
+2.	Bootstrap
+3.	KnockoutJS
+4.	KendoUI
 
 Requirements
+Design a web page that adheres to the following criteria. Remember, it doesn’t have
+to be perfect, we just want to see your base knowledge of HTML and CSS.
 1. Fluid width
 2. Header with a height of 100px
 3. Login button at the right corner of the header (doesn’t have to be functional)
